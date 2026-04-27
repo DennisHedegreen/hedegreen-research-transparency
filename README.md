@@ -21,10 +21,12 @@ It exists to hold the public transparency ledger without exposing the wider priv
 
 ## Current rule
 
-Until this repo is published separately, the live V2 site still serves its own public `ledger.json` copy.
+This repo is now the public source-of-record for the Hedegreen Research declaration ledger.
 
-When the public transparency repo goes live:
+The live V2 site may still serve its own public `ledger.json` copy, but that copy should stay in sync with the file here.
 
-1. this repo becomes the source-of-record
-2. the V2 site links to the public GitHub source and history here
-3. the site copy of `ledger.json` should stay in sync with this repo
+The intended model is:
+
+1. this repo holds the public declaration history
+2. the V2 site links to the GitHub source and history here
+3. redacted contracts or declaration attachments can be added here without exposing the wider workspace
