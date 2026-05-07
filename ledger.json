@@ -1,3 +1,28 @@
 {
-  "entries": []
+  "entries": [
+    {
+      "date": "2026-05-05",
+      "type": "archive access",
+      "status": "completed",
+      "party": "Mejerimedier ApS / Mælkeritidende",
+      "value_display": "Physical archive access, meeting room (one day), coffee.",
+      "what_it_buys": "Access to bound original volumes of Mælkeritidende, 1892–1904. No financial payment made or received.",
+      "what_it_does_not_buy": "Editorial control over any published output. No obligation to publish in Mælkeritidende. No obligation to present findings in any particular way.",
+      "notes": "Access facilitated by editor Maja Løvstrup. Research conducted as part of the Forgotten Machines investigation track.",
+      "output_url": "",
+      "output_label": ""
+    },
+    {
+      "date": "2026-05-07",
+      "type": "personal survey honorarium",
+      "status": "completed",
+      "party": "Anthropic Economic Research / Anthropic Economic Index Survey",
+      "value_display": "$15.00 USD paid to Dennis Hedegreen personally via Tremendous.",
+      "what_it_buys": "Compensation for Dennis Hedegreen's personal time spent participating in the Anthropic Economic Index Survey. This was not paid to Hedegreen Research as a project, publication, sponsorship, contract, donation, or commissioned analysis.",
+      "what_it_does_not_buy": "Editorial control over Hedegreen Research. No obligation to publish about Anthropic. No obligation to present Anthropic, AI systems, or economic AI effects in any particular way. No access to unpublished Hedegreen Research material. No influence over conclusions, wording, corrections, or future analysis.",
+      "notes": "Disclosed because Dennis Hedegreen is the operator of Hedegreen Research and the survey topic relates to AI, labor, and economic research. Anthropic stated that future participation may be invited again in approximately six months. The redemption link/token is intentionally not published.",
+      "output_url": "",
+      "output_label": ""
+    }
+  ]
 }
