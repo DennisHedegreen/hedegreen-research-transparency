@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "date": "2026-06-22",
+      "type": "travel support",
+      "status": "active",
+      "party": "Democracy Shield Hackathon / Brussels event support",
+      "value_display": "Flight to Brussels, hotel during the hackathon, and food provided during the hackathon period.",
+      "what_it_buys": "Practical access to be physically present in Brussels for the hackathon. It buys travel, a place to sleep during the event, and food support during the hackathon window.",
+      "what_it_does_not_buy": "Editorial control over Hedegreen Research, positive coverage, softer conclusions, suppressed criticism, endorsement language, or any obligation to present the event, organizers, partners, or outputs in a flattering way. It does not make the hackathon a validator of the conclusions.",
+      "notes": "Declared because the Brussels trip is part of the public Hedegreen Research field context. This support concerns presence and capacity, not the conclusion. Related public note: Hedegreen Research Is Going to Brussels.",
+      "output_url": "/articles/hedegreen-research-is-going-to-brussels/",
+      "output_label": "Hedegreen Research Is Going to Brussels"
+    },
+    {
       "date": "2026-05-05",
       "type": "archive access",
       "status": "completed",
